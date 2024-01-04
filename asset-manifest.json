@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NatYarm/hws2/static/css/main.18f8ca56.css",
+    "main.js": "/NatYarm/hws2/static/js/main.74dee3fc.js",
+    "static/js/787.66cb4309.chunk.js": "/NatYarm/hws2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/NatYarm/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/NatYarm/hws2/index.html",
+    "main.18f8ca56.css.map": "/NatYarm/hws2/static/css/main.18f8ca56.css.map",
+    "main.74dee3fc.js.map": "/NatYarm/hws2/static/js/main.74dee3fc.js.map",
+    "787.66cb4309.chunk.js.map": "/NatYarm/hws2/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f8ca56.css",
+    "static/js/main.74dee3fc.js"
+  ]
+}
